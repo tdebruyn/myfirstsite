@@ -29,7 +29,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myfirstsite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="28" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.70343393" vertical-offset="404" max-vertical-offset="1365">
+            <state line="38" column="12" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.4693028" vertical-offset="119" max-vertical-offset="1395">
               <folding />
             </state>
           </provider>
@@ -194,7 +194,11 @@
       <created>1399581211178</created>
       <updated>1399581211178</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New timezone">
+      <created>1399581843041</created>
+      <updated>1399581843041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -235,7 +239,8 @@
     </option>
     <MESSAGE value="Change TZ" />
     <MESSAGE value="Update admin form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update admin form" />
+    <MESSAGE value="New timezone" />
+    <option name="LAST_COMMIT_MESSAGE" value="New timezone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -252,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myfirstsite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="28" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.70343393" vertical-offset="404" max-vertical-offset="1365">
+        <state line="38" column="12" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.4693028" vertical-offset="119" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
