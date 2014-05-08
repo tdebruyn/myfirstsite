@@ -70,7 +70,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC+0200'
+TIME_ZONE = 'Europe/Brussels'
 
 USE_I18N = True
 
